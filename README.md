@@ -80,14 +80,14 @@ O projeto foi desenvolvido em **Python** usando **PyTorch** e **LTNtorch**, segu
 5. Treinamento (Otimização via Satisfatibilidade)
 6. Validação (5 Cenários Aleatórios)
 7. Queries Compostas (Raciocínio Complexo)
-8. Explicabilidade (Ponto Extra)
+8. Explicabilidade
 ```
 
 ---
 
 ## 📊 Tarefas Implementadas
 
-### ✅ Tarefa 1: Taxonomia e Formas (2 pontos)
+### ✅ Tarefa 1: Taxonomia e Formas
 
 **Predicados Implementados:**
 - **Formas**: `IsCircle`, `IsSquare`, `IsCylinder`, `IsCone`, `IsTriangle`
@@ -122,7 +122,7 @@ O projeto foi desenvolvido em **Python** usando **PyTorch** e **LTNtorch**, segu
 
 ---
 
-### ✅ Tarefa 2: Raciocínio Espacial Horizontal (5 pontos)
+### ✅ Tarefa 2: Raciocínio Espacial Horizontal
 
 **Predicados Implementados:**
 - `LeftOf(x, y)`: x está à esquerda de y
@@ -210,7 +210,7 @@ O projeto foi desenvolvido em **Python** usando **PyTorch** e **LTNtorch**, segu
 
 ---
 
-### ✅ Tarefa 4: Raciocínio Composto (2 pontos)
+### ✅ Tarefa 4: Raciocínio Compost
 
 **Query 1**: Filtragem Composta
 ```
