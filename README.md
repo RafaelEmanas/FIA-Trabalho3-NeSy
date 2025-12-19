@@ -9,7 +9,7 @@
 3. Caio da Silva Martins
 4. Antonio Lucas de Melo Barbosa Mendes Rodrigues
 5. Breno Augusto Pinheiro Rodrigues da Silva
-6. Gabryella Reis
+6. Gabryella Eduarda Mattos Reis
 
 ---
 
